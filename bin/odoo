@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+
+# Fake runner for path mapping. The real odoo runner will be executed in the container
